@@ -3,8 +3,7 @@ body {
     flex-direction: column;
     font-family: 'Roboto Mono', monospace;
     background-image: url('images/1000_F_565538659_mgr35IT1mEhU5YePZJXtuOSfzPKFaqkO.jpg');
-    background-size: cover;
-    
+    background-size:contain;
 }
 
 nav {
